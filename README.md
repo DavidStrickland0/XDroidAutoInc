@@ -8,7 +8,7 @@ This is accomplished by adding 1 to the version number and then appending the re
 
 By placing this app as a PREBuild custom command the manifest will update each time you build.
 
-**Directions for an Xamarin.Forms project in Xamarin Studios
+## Directions for a project in Xamarin Studios
   Download and compile source code.
   
 1.  Right click your Droid app.
@@ -26,3 +26,5 @@ By placing this app as a PREBuild custom command the manifest will update each t
 8. Select OK.
 
 ![Xamarin Options](XamarinOptions.png)
+
+## Should work just as well in Visual Studio. If anyone has the time to wite up the instructions Id be happy to merge them in.
