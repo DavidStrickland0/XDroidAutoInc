@@ -1,0 +1,6 @@
+C:\Source\IndiPonics\XDroidAutoInc\XDroidAutoInc\bin\Debug\XDroidAutoInc.exe.config
+C:\Source\IndiPonics\XDroidAutoInc\XDroidAutoInc\obj\Debug\XDroidAutoInc.csprojResolveAssemblyReference.cache
+C:\Source\IndiPonics\XDroidAutoInc\XDroidAutoInc\bin\Debug\XDroidAutoInc.exe
+C:\Source\IndiPonics\XDroidAutoInc\XDroidAutoInc\bin\Debug\XDroidAutoInc.pdb
+C:\Source\IndiPonics\XDroidAutoInc\XDroidAutoInc\obj\Debug\XDroidAutoInc.exe
+C:\Source\IndiPonics\XDroidAutoInc\XDroidAutoInc\obj\Debug\XDroidAutoInc.pdb
