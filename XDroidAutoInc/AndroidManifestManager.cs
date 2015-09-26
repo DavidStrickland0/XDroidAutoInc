@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace https://github.com/DavidStrickland0/XDroidAutoInc.git
+namespace XDroidAutoInc
 {
     class AndroidManifestManager
     {
