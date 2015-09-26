@@ -6,7 +6,7 @@ Thus the project was born. The app is small and serves 1 purpose incrementing th
 
 This is accomplished by adding 1 to the version number and then appending the result to the end of the version name.
 
-By placing this app as a PREBuild customcommand the manifest will update each time you build.
+By placing this app as a PREBuild custom command the manifest will update each time you build.
 
 **Directions for an Xamarin.Forms project in Xamarin Studios
   Download and compile source code.
@@ -24,3 +24,5 @@ By placing this app as a PREBuild customcommand the manifest will update each ti
   Be sure to include the " marks
 
 8. Select OK.
+
+![Xamarin Options](XamarinOptions.png)
